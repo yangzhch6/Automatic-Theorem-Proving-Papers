@@ -1,3 +1,4 @@
+# Automatic Theorem Proving & Discovering Papers 
 # Paper List
 1. Generative language modeling for automated theorem proving [[paper]](https://arxiv.org/pdf/2009.03393.pdf)
 2. Proof Artifact Co-Training For Theorem Proving With Language Models [[paper]](https://openreview.net/pdf?id=rpxJc9j04U)
