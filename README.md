@@ -6,8 +6,6 @@
 3. [Isabelle](https://isabelle.in.tum.de/)
 
 ## Proof Procedural
-`Here I provide a brief description of the proof process.`
-
 A proof step in proof assistant can be formalized as:
 > goal -> tatic -> [subgoals]
 
@@ -18,6 +16,6 @@ For a theorem, it self will be considered as a root goal in the proof assistant,
 For Automatic Theorem Proving (ATP), we need to achieve an AI to automatically generate tatics for each given goal, and design an efficient search algorithm to quickly reach the end of the proof.
 
 ## Paper List
-1. Generative language modeling for automated theorem proving [[paper]](https://arxiv.org/pdf/2009.03393.pdf)
+1. Generative Language Modeling For Automated Theorem Proving [[paper]](https://arxiv.org/pdf/2009.03393.pdf)
 2. Proof Artifact Co-Training For Theorem Proving With Language Models [[paper]](https://openreview.net/pdf?id=rpxJc9j04U)
 3. HyperTree Proof Search for Neural Theorem Proving [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a8901c5e85fb8e1823bbf0f755053672-Abstract-Conference.html)
