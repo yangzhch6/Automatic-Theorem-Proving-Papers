@@ -2,7 +2,7 @@
 
 ## Proof Assistant
 1. [MetaMath](https://us.metamath.org/mpeuni/mmset.html)   
-  Metamath which is based on a single substitution rule. In Metamath, each theorem is proved sequentially. The original theorem to be proved is first formalized as a goal. At each step of the proof process, a goal or subgoal is converted into other subgoals by a proof step which is formed by the simple substitution rule. Sometimes more than one subgoal is decomposed from a single goal, so the proof path is often tree-structured. When all of the subgoal reaches the very bottom of the metamath formal system (axioms of logic and set theory—the starting point for all of mathematics), the theorem is proved. 
+  Metamath is based on a single substitution rule. In Metamath, each theorem is proved sequentially. The original theorem to be proved is first formalized as a goal. At each step of the proof process, a goal or subgoal is converted into other subgoals by a proof step which is formed by the simple substitution rule. Sometimes more than one subgoal is decomposed from a single goal, so the proof path is often tree-structured. When all of the subgoal reaches the very bottom of the metamath formal system (axioms of logic and set theory—the starting point for all of mathematics), the theorem is proved. 
 2. [Lean](https://leanprover-community.github.io/)
 3. [Isabelle](https://isabelle.in.tum.de/)
 
