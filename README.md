@@ -23,3 +23,6 @@ For Automatic Theorem Proving (ATP), we need to achieve an AI to automatically g
 4. Formal Mathematics Statement Curriculum Learning [[paper]](https://arxiv.org/pdf/2202.01344.pdf)
 5. HyperTree Proof Search for Neural Theorem Proving [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a8901c5e85fb8e1823bbf0f755053672-Abstract-Conference.html)
 6. Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs [[paper]](https://arxiv.org/pdf/2210.12283.pdf)
+
+## Resources
+1. A Course of Dependent Type Theory [[link]](https://www.youtube.com/watch?v=HvYYCHMeM-8)
