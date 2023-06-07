@@ -18,6 +18,8 @@ For Automatic Theorem Proving (ATP), we need to achieve an AI to automatically g
 
 ## Paper List
 1. Generative Language Modeling For Automated Theorem Proving [[paper]](https://arxiv.org/pdf/2009.03393.pdf)
-2. Proof Artifact Co-Training For Theorem Proving With Language Models [[paper]](https://openreview.net/pdf?id=rpxJc9j04U)
-3. Formal Mathematics Statement Curriculum Learning [[paper]](https://arxiv.org/pdf/2202.01344.pdf)
-4. HyperTree Proof Search for Neural Theorem Proving [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a8901c5e85fb8e1823bbf0f755053672-Abstract-Conference.html)
+2. miniF2F: A Cross-System Benchmark for Formal Olympiad-level Mathematics [[paper]](https://arxiv.org/pdf/2109.00110.pdf)
+3. Proof Artifact Co-Training For Theorem Proving With Language Models [[paper]](https://openreview.net/pdf?id=rpxJc9j04U)
+4. Formal Mathematics Statement Curriculum Learning [[paper]](https://arxiv.org/pdf/2202.01344.pdf)
+5. HyperTree Proof Search for Neural Theorem Proving [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a8901c5e85fb8e1823bbf0f755053672-Abstract-Conference.html)
+6. Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs [[paper]](https://arxiv.org/pdf/2210.12283.pdf)
